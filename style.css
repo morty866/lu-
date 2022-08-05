@@ -12,8 +12,9 @@ header{
     height: 70px;
     background: lightyellow;
 }
+
 header h1{
-    padding-top: 10px;
+    padding-top: 25px;
     text-align: center
 }
 
@@ -23,11 +24,11 @@ header h1{
     padding: 20px;
 }
 
-.texto p{
-    padding: 1em;
+.texto .principal{
+    padding: 8px;
 }
 
-.texto h1{
+.texto h1{  
     padding-bottom: 30px;
     text-align: center
 }
